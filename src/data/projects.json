@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Project Panca Tani Cakra",
+    "imageSrc": "projects/project.png",
+    "description": "We are building a website to solve the problem of agricultural distribution, enabling farmers to sell their products directly and participate in a discussion forum.",
+    "skills": ["React", "Typescript", "Node"],
+    "source": "https://github.com/MariaSBRN/PancaTaniCakra-Web"
+  },
+  {
+    "title": "Project SPMB Website",
+    "imageSrc": "projects/project.png",
+    "description": "Develop a dedicated Student Admissions website (SPMB) to manage student applications and acceptance processes for our school.",
+    "skills": ["PHP"],
+    "source": "https://github.com/gabrielhtg/project-spmb-pabwe"
+  },
+  {
+    "title": "Lost and Found Project",
+    "imageSrc": "projects/project.png",
+    "description": "Build a lost and found application using kotlin",
+    "skills": ["Kotlin"],
+    "source": "https://github.com/RioEkaPasaribu/lostandfoundfinal"
+  },
+  {
+    "title": "DAPPS Personal Medical Record",
+    "imageSrc": "projects/project.png",
+    "description": "Build a PMR aplication using blockchain and ipfs as a storage.",
+    "skills": [
+      "Kotlin",
+      "Solidity",
+      "Express",
+      "Node",
+      "Blockchain",
+      "Ethereum"
+    ],
+    "source": "https://github.com/RioEkaPasaribu/Personal-medical-record-ipfs-blockchain"
+  }
+]
